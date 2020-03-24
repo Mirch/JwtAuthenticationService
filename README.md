@@ -4,7 +4,7 @@ This repository shows an example on how to create an authentication service in A
 
 ## Community
 
-Join the [Slack community](https://join.slack.com/t/fullstackaspnetcore/shared_invite/enQtOTM1NzcxNTg0MDY1LTBlZmQ3NDlmZTYwNzljMmU0YzAyMDA4OWZiNTc1NjMzMjU5YjM3N2I2Njg3ZGZlZDQ4ZGNkY2E1YzU3NGFkOTg) if you have any questions about the article and the code, or ASP.NET Core in general.  
+Join the [Slack community](https://join.slack.com/t/fullstackaspnetcore/shared_invite/zt-cxssxau9-0U6wpNoYdtpOeZlCQbj96A) if you have any questions about the article and the code, or ASP.NET Core in general.  
 
 #### Build full-stack web applications with ASP.NET Core
 

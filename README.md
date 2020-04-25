@@ -10,5 +10,5 @@ Join the [Slack community](https://join.slack.com/t/fullstackaspnetcore/shared_i
 
 If you would like to learn more about ASP.NET Core, you can look into the "Build full-stack web applications with ASP.NET Core" book. You can buy the book on:
 - [Amazon](https://www.amazon.com/dp/B084VB9P2H) as a Kindle version, 
-- [My store](https://mirceateodoroprea.selz.com/item/5e4a4cc6701f5d0a74c4901a) or [Fiverr](https://www.fiverr.com/s2/ef3a4d937e) as PDF,
+- [Fiverr](https://www.fiverr.com/s2/ef3a4d937e) as PDF,
 - or download a [**free sample**](https://mirceaoprea.net/wp-content/uploads/2020/02/Full-stack-ASP.NET-Core-sample.pdf).
